@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2f8ac4f2-b0ef-4f5d-98c3-36d4214fbbaf" name="Fundamentals" url="http://ddc-web-student.cnm.edu/~emanolito/Fundamentals">
+        <fileTransfer rootFolder="/home/emanolito@cnm.edu/public_html/Fundamentals" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="830d0982-6c73-4640-87c1-52f24d834168" sshConfig="emanolito@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
